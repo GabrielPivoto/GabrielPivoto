@@ -10,4 +10,8 @@
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python" width="40" height="40">
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" title="C++" width="40" height="40">
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/cypress.svg" alt="Cypress" title="Cypress" width="40" height="40">
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySql" title="MySql" width="40" height="40">
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" title="MongoDB" width="40" height="40">
+<img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="Neo4j" title="Neo4j" width="40" height="40">
 </p>
