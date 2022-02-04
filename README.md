@@ -5,3 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPivoto&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPivoto&layout=compact&langs_count=7&theme=merko"/>
 </div>
+
+<p align="left"> 
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="40" height="40"/>
+</p>
