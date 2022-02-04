@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy, stranger! 👋
 
 <div align="center">
   <a href="https://github.com/GabrielPivoto">
