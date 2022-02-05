@@ -17,3 +17,6 @@
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB" width="40" height="40">
 <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="Neo4j" title="Neo4j" width="40" height="40">
 </div>
+
+
+[![Generate Datas](https://github.com/GabrielPivoto/GabrielPivoto/actions/workflows/main.yml/badge.svg)](https://github.com/GabrielPivoto/GabrielPivoto/actions/workflows/main.yml)
