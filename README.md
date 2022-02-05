@@ -6,6 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPivoto&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
+---
+
 ### Languages and Tools
 
 <div style="display: inline_block"><br>
