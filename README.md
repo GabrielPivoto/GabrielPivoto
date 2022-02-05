@@ -22,5 +22,6 @@
 <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="Neo4j" title="Neo4j" width="40" height="40">
 </div>
 
+---
 
 ![Snake animation](https://github.com/GabrielPivoto/GabrielPivoto/blob/output/github-contribution-grid-snake.svg)
