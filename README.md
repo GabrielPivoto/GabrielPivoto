@@ -1,4 +1,9 @@
 ## Howdy, stranger! 👋
+
+- I'm a Computer Engineering Student at Inatel 🖥️
+- Currently working as a QA Tester 🔎
+- Learning more about Cypress and JavaScript 📚
+
 ![GitHub followers](https://img.shields.io/github/followers/ThiagoBuen?label=Follow&style=social)
 ---
 
