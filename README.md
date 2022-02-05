@@ -1,4 +1,6 @@
 ## Howdy, stranger! 👋
+![GitHub followers](https://img.shields.io/github/followers/ThiagoBuen?label=Follow&style=social)
+---
 
 <div align="center">
   <a href="https://github.com/GabrielPivoto">
