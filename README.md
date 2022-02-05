@@ -19,4 +19,4 @@
 </div>
 
 
-[![Generate Datas](https://github.com/GabrielPivoto/GabrielPivoto/actions/workflows/main.yml/badge.svg)](https://github.com/GabrielPivoto/GabrielPivoto/actions/workflows/main.yml)
+![Snake animation](https://github.com/GabrielPivoto/GabrielPivoto/blob/output/github-contribution-grid-snake.svg)
