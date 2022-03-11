@@ -1,4 +1,4 @@
-## Howdy, stranger! 👋
+## Howdy, stranger! 
 
 - I'm a Computer Engineering Student at Inatel 🖥️
 - Currently working as a QA Tester 🔎
