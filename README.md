@@ -9,6 +9,8 @@
 
 ![](https://komarev.com/ghpvc/?username=GabrielPivoto&color=006bed)
 
+---
+
 <div>
   <a href="https://github.com/GabrielPivoto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPivoto&hide_border=false&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
