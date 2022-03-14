@@ -16,7 +16,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPivoto&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
-<center>Languages and Tools</center>  
+<p style="text-align:center">Languages and Tools</p>  
   
 <div align="center" style="display: inline_block"><br>
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="40" height="40"/>
