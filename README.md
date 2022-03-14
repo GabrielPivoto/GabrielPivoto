@@ -9,6 +9,13 @@
 
 ![](https://komarev.com/ghpvc/?username=GabrielPivoto&color=006bed)
 
+<div align="center">
+  <a href="https://github.com/GabrielPivoto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPivoto&hide_border=false&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPivoto&hide_border=false&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielPivoto&hide_border=false&theme=merko" />  
+</div>
+
 ---
 #### Languages and Tools:
 
@@ -24,17 +31,6 @@
   <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="Neo4j" title="Neo4j" width="40" height="40">
 </div>
 
----
-
-#### My Stats:
-
-<div align="center">
-  <a href="https://github.com/GabrielPivoto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPivoto&hide_border=false&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPivoto&hide_border=false&layout=compact&langs_count=7&theme=merko"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielPivoto&hide_border=false&theme=merko" />  
-</div>
-  
  ---
 
 ![Snake animation](https://github.com/GabrielPivoto/GabrielPivoto/blob/output/github-contribution-grid-snake.svg)
