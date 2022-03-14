@@ -20,7 +20,7 @@
 
 ### Languages and Tools
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ Idea" title="IntelliJ Idea" width="40" height="40"/>  
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python" width="40" height="40">
