@@ -18,7 +18,7 @@
 
 ---
 
-  <div align="center">Languages and Tools</div> 
+<text align="center">Languages and Tools</text> 
 
 <div align="center" style="display: inline_block"><br>
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="40" height="40"/>
