@@ -1,6 +1,9 @@
-## Howdy, stranger! 👋
+# Howdy, stranger! 👋
 
-- I'm a Computer Engineering Student at Inatel 🖥️
+## About me:
+
+- Made in South America :brazil:
+- Computer Engineering Student at Inatel 🖥️
 - Currently working as a QA Tester 🔎
 - Learning more about Cypress and JavaScript 📚
 
