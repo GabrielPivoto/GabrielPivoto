@@ -13,7 +13,8 @@
 
 <div align="center" style="display: inline_block"><br>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ Idea" title="IntelliJ Idea" width="40" height="40"/>  
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ Idea" title="IntelliJ Idea" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" title="Unity" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python" width="40" height="40">
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" title="Jupyter" width="40" height="40">
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" title="C++" width="40" height="40">
