@@ -25,7 +25,8 @@
 <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ Idea" title="IntelliJ Idea" width="40" height="40"/>  
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python" width="40" height="40">
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" title="C++" width="40" height="40">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40">  
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40">
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-bitbucket-is-a-web-based-version-control-repository-hosting-service-logo-shadow-tal-revivo.png" alt="BitBucket" title="BitBucket" width="40" height="40">  
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/cypress.svg" alt="Cypress" title="Cypress" width="40" height="40">
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySql" title="MySql" width="40" height="40">
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB" width="40" height="40">
