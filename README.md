@@ -3,7 +3,7 @@
 ## About me:
 
 - Made in South America :brazil:
-- Computer Engineering Student at Inatel 🖥️
+- Computer Engineering Student at [Inatel](https://inatel.br/home/) 🖥️
 - Currently working as a QA Tester 🔎
 - Learning more about Cypress and JavaScript 📚
 
