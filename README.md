@@ -26,10 +26,8 @@
 ---
 
 <div>
-  <a href="https://github.com/GabrielPivoto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPivoto&hide_border=false&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>    
-  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPivoto&hide=html&theme=cobalt&hide_border=false"/></a>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielPivoto&hide_border=false&theme=cobalt" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPivoto&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPivoto&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 ---
