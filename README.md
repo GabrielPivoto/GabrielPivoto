@@ -1,6 +1,6 @@
 # Howdy, stranger! 👋
 
-### About me:
+#### About me:
 
 - Made in South America :brazil:
 - Computer Engineering Student at [Inatel](https://inatel.br/home/) 🖥️
@@ -10,7 +10,7 @@
 ![](https://komarev.com/ghpvc/?username=GabrielPivoto&color=006bed)
 
 ---
-### Languages and Tools:
+#### Languages and Tools:
 
 <div style="display: inline_block"><br>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="40" height="40"/>
@@ -26,7 +26,7 @@
 
 ---
 
-### My Stats:
+#### My Stats:
 
 <div align="center">
   <a href="https://github.com/GabrielPivoto">
