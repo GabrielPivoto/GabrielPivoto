@@ -5,8 +5,6 @@
 - Learning more about Cypress and JavaScript 📚
 
 ![](https://komarev.com/ghpvc/?username=GabrielPivoto&color=006bed)
-
-![GitHub followers](https://img.shields.io/github/followers/ThiagoBuen?label=Follow&style=social)
 ---
 
 <div align="center">
