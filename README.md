@@ -21,6 +21,7 @@
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySql" title="MySql" width="40" height="40">
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB" width="40" height="40">
   <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="Neo4j" title="Neo4j" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" title="Linux" width="40" height="40">
 </div>
 
 ---
