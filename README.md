@@ -20,6 +20,8 @@
 #### Languages and Tools:
 
 <div align="center" style="display: inline_block"><br>
+    
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node" title="Node" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ Idea" title="IntelliJ Idea" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" title="Unity" width="40" height="40"/> 
