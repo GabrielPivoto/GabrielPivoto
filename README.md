@@ -8,6 +8,7 @@
 - Learning more about Cypress and Javascript 📚
 
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
+<!-- View counter - https://github.com/GabrielPivoto/Simple-View-Counter -->
 ![](https://komarev.com/ghpvc/?username=GabrielPivoto&color=006bed)
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/GabrielPivoto"/></a>
 <a href="https://github.com/GabrielPivoto?tab=followers">
