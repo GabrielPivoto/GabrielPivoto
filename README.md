@@ -7,6 +7,7 @@
 - Currently working as a QA Tester 🔎
 - Learning more about Cypress and Javascript 📚
 
+<!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 ![](https://komarev.com/ghpvc/?username=GabrielPivoto&color=006bed)
 
 #### Languages and Tools:
