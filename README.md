@@ -17,7 +17,7 @@
 <a href="https://github.com/GabrielPivoto?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/GabrielPivoto?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <a href="https://github.com/DenverCoder1/Simple-View-Counter">    
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=GabrielPivoto"/></a>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=GabrielPivoto&style=for-the-badge"/></a>
    
 #### Languages and Tools:
 
