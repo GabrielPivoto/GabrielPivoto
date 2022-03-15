@@ -1,5 +1,7 @@
 ## Howdy, stranger! 👋
 
+<img align='right' src="https://giphy.com/embed/ehnBGPgDOusUM" width="480" height="192">
+
 #### About me:
 
 - Made in South America :brazil:
