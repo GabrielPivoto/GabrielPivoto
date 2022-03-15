@@ -7,6 +7,8 @@
 - Currently working as a QA Tester 🔎
 - Learning more about Cypress and Javascript 📚
 
+<iframe src="https://giphy.com/embed/3ornk57KwDXf81rjWM" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/starwars-movie-star-wars-3ornk57KwDXf81rjWM">via GIPHY</a></p>
+
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
 <a href="https://github.com/GabrielPivoto?tab=repositories&sort=stargazers">    
