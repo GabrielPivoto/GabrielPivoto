@@ -12,8 +12,9 @@
 <a href="https://github.com/GabrielPivoto?tab=repositories&sort=stargazers">    
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/GabrielPivoto"/></a>
 <a href="https://github.com/GabrielPivoto?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/GabrielPivoto?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>  
-<img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=GabrielPivoto&style=for-the-badge"/>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/GabrielPivoto?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="https://github.com/GabrielPivoto">    
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=GabrielPivoto&style=for-the-badge"/></a>
    
 #### Languages and Tools:
 
