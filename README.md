@@ -43,6 +43,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPivoto&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPivoto&layout=compact&langs_count=7&theme=merko"/>
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=GabrielPivoto&theme=merko&hide_border=false">
+  <br>
+  <br>
 </p>
 
 ---
