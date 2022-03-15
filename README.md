@@ -1,7 +1,5 @@
 ## Howdy, stranger! 👋
 
-<div style="width:100%;height:0;padding-bottom:40%;position:relative;"><iframe src="https://giphy.com/embed/ehnBGPgDOusUM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/star-wars-hello-han-solo-ehnBGPgDOusUM">via GIPHY</a></p>
-
 #### About me:
 
 - Made in South America :brazil:
