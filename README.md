@@ -41,8 +41,8 @@
 ---
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPivoto&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielPivoto&hide_border=false&theme=nightowl" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GabrielPivoto&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielPivoto&hide_border=false&theme=nightowl" />
 </p>
 
 ---
