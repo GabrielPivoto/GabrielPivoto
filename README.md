@@ -1,6 +1,6 @@
 ## Howdy, stranger! 👋
 
-<img align='right' src="https://media1.giphy.com/media/rHR8qP1mC5V3G/giphy.gif?cid=ecf05e476kqrrxmiyvui7z1sy1c3k0avtkh22rhbnyh66per&rid=giphy.gif&ct=g" width="230">
+<img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4772zxp2lxyohmv5r7928lcgmustzp8nn15gvn55l0&rid=giphy.gif&ct=g" width="230">
 
 #### About me:
 
