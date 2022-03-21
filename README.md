@@ -43,7 +43,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GabrielPivoto&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielPivoto&theme=nightowl&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPivoto&layout=compact&theme=nightowl&count_private=true"/>
 </p>
 
 ---
