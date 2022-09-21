@@ -8,7 +8,7 @@
 
 - Made in South America 🇧🇷
 - Computer Engineering Student at [Inatel](https://inatel.br/home/) 🖥️
-- Currently working as a Java developer ☕
+- Currently working as a Java developer @ Ericsson - BSS ☕
 - Learning more about Java and Spring Boot 📚
 
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
