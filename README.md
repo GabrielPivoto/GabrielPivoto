@@ -7,7 +7,7 @@
 #### About me:
 
 - Made in South America 🇧🇷
-- Computer Engineering Student at [Inatel](https://inatel.br/home/) 🖥️
+- Computer Engineer - [Inatel](https://inatel.br/home/) 🖥️
 - Currently working as a Java developer @ Ericsson - SOFT ☕
 - Learning more about Java and Spring Boot 📚
 
