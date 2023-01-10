@@ -24,7 +24,6 @@
 #### Languages and Tools:
 
 <div align="center" style="display: inline_block"><br>
-  <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Go" title="Go" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node" title="Node" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript" title="Javascript" width="40" height="40"/>   
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="40" height="40"/>
