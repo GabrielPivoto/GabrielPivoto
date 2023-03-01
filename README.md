@@ -8,7 +8,7 @@
 
 - Made in South America 🇧🇷
 - Computer Engineer - [Inatel](https://inatel.br/home/) 🖥️
-- Currently working as a Java developer @ Ericsson - SOFT ☕
+- Currently working as a Java developer @ Inatel Competence Center - Ericsson ☕
 - Learning more about Java and Spring Boot 📚
 
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
