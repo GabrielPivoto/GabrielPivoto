@@ -51,5 +51,3 @@
 </p>
 
 ---
-
-![Snake animation](https://github.com/GabrielPivoto/GabrielPivoto/blob/output/github-contribution-grid-snake.svg)
