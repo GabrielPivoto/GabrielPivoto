@@ -7,6 +7,6 @@
 #### About me:
 
 - Made in South America 🇧🇷
-- Computer Engineer - [Inatel](https://inatel.br/home/) 🖥️
+- Computer Engineer and Software Engineering teacher @ [Inatel](https://inatel.br/home/) 🖥️
 - Master's student in Telecommunications 📡
 - Currently working as a Java developer at Inatel Competence Center - Ericsson ☕
